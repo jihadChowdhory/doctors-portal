@@ -1,0 +1,11 @@
+.test-container {
+  width: 350px;
+}
+.testimonial-card-details img {
+  float: left;
+  width: 50px;
+  margin-right: 20px;
+}
+.testimonial-card-details h5 small {
+  margin-left: 10px;
+}

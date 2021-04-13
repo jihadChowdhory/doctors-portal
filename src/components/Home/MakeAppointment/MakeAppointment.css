@@ -1,0 +1,7 @@
+.make-appointment-container {
+  background-color: #3a4256;
+  height: 392px;
+}
+.make-appointment-doctor-img {
+  transform: translateY(-130px);
+}
